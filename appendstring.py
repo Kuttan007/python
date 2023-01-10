@@ -5,9 +5,9 @@ Given two strings, s1 and s2. Write a program to create a new string s3 by appen
 Given:
 
 s1 = "Ault"
-s2 = "Kelly"
+s2 = "Kelly"  """
 
-"""
+
 
 #!/usr/bin python3
 s1= "Ault"
