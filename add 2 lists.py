@@ -9,6 +9,7 @@ Expected output:
 
 ['My', 'name', 'is', 'Kelly'] """
 
+#!/usr/bin python3
 list1 = ["M", "na", "i", "Ke"]
 list2 = ["y", "me", "s", "lly"]
 list3=list1[0]+list2[0]
